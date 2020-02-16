@@ -396,7 +396,12 @@ mark,
   border-radius: 0.25rem;
   max-width: 100%;
   height: auto; }
-
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .figure {
   display: inline-block; }
 
